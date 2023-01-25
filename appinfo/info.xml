@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<info>
+	<!-- Mandatory fields -->
+	<id>wallpaper</id>
+	<name>Wallpaper</name>
+        <author>Robson Rissato</author>
+	<description>Background for the login screen</description>
+	<version>0.1.0</version>
+	<licence>AGPL</licence>
+	<screenshot>https://github.com/robsonwr/owncloud-wallpaper/raw/master/screenshot.png</screenshot>
+        <category>customization</category>
+	<summary>Sets a nice background on the login screen</summary>
+        <dependencies>
+		<owncloud min-version="10.0" max-version="10" />
+	</dependencies>
+        <documentation>https://github.com/robsonwr/owncloud-wallpaper</documentation>
+        <website>https://github.com/robsonwr/owncloud-wallpaper</website>
+	<bugs>https://github.com/robsonwr/owncloud-wallpaper/issues</bugs>
+	<repository type="git">https://github.com/robsonwr/owncloud-wallpaper.git</repository>
+</info>
